@@ -1,6 +1,9 @@
 /**
  * Created by Chris on 5/7/2016.
  */
+
+//08.30.16 @ 4PM : Testing pushing updated files to GIT
+
 function countBs(string) {
     var count = 0;
 
